@@ -1,10 +1,5 @@
 # UAV-NIDD-A-Real-World-Cybersecurity-Dataset-for-Intrusion-Detection-in-UAV-Networks
 UAV-NIDD is a real-world, dynamic intrusion detection dataset collected from a physical UAV network testbed. It includes benign traffic and ten cyber-attack types targeting UAVs, access points, and ground control stations, designed to support research in UAV cybersecurity, IDS, and machine learning.
-# UAV-NIDD: A Dynamic Dataset for Cybersecurity and Intrusion Detection in UAV Networks
-
-UAV-NIDD is a real-world network intrusion detection dataset collected from a fully operational UAV network testbed. Unlike simulated or virtual datasets, UAV-NIDD captures real UAV communication traffic under both normal and adversarial conditions, making it suitable for realistic cybersecurity research in unmanned aerial vehicle (UAV) networks.
-
----
 
 ## 🔍 Motivation
 
@@ -83,6 +78,20 @@ Feature categories include:
 
 These features support both binary and multi-class intrusion detection.
 
+## 📌 Citation
 
+If you use **UAV-NIDD** in your research, experiments, or publications, please cite the following paper:
+
+```bibtex
+@article{Hadi2025UAVNIDD,
+  author    = {Hassan Jalil Hadi and Yue Cao and Muhammad Khurram Khan and Naveed Ahmad and Yulin Hu and Chao Fu},
+  title     = {UAV-NIDD: A Dynamic Dataset for Cybersecurity and Intrusion Detection in UAV Networks},
+  journal   = {IEEE Transactions on Network Science and Engineering},
+  volume    = {12},
+  number    = {4},
+  pages     = {2739--2758},
+  year      = {2025},
+  doi       = {10.1109/TNSE.2025.3553442}
+}
 
 
