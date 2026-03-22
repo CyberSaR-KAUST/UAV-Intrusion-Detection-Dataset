@@ -94,4 +94,12 @@ If you use **UAV-NIDD** in your research, experiments, or publications, please c
   doi       = {10.1109/TNSE.2025.3553442}
 }
 
+```
+
+---
+
+## 👨‍💻 Maintainer
+
+**CyberSar Lab**
+🔗 https://cybersar.kaust.edu.sa/
 
